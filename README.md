@@ -1,6 +1,6 @@
-# Realm como DB
+# RealmDB
 
-## Nini-App usando Realm como banco de dados
+## App usando Realm, banco de dados
 
 ### Inicar a aplicação
 
@@ -17,5 +17,4 @@ $ react-native run-android
 
 ## Observações
 
-- Lembra que precisa esta com o emulador do android ligado.
-- Ou conectar com o celular
+- Lembra que precisa esta com o emulador do android ligado ou conectar com o celular
